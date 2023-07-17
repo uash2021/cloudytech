@@ -1,5 +1,6 @@
 # cloudytech
 All resources related to Cloud and Devops
+
 To install jenkins on ubuntu server follow below steps.
 
 Copy this script.sh file to your ubuntu server or run the commands from the script one by one in sequence.
